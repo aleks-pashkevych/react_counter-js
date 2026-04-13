@@ -20,7 +20,6 @@ export const App = () => {
     if (count % 5 === 0) {
       add100();
     }
-
   };
 
   return (
